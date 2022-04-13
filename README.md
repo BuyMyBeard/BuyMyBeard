@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... game dev
 - 🌱 I’m currently learning ... anything and everything
 - 💞️ I’m looking to collaborate on ... nothing so far
-- 📫 How to reach me ... don't
+- 📫 How to reach me ... BuyMyBeard#8716 on Discord
 
 <!---
 BuyMyBeard/BuyMyBeard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

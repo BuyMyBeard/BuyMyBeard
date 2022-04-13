@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BuyMyBeard
 - 👀 I’m interested in ... game dev
-- 🌱 I’m currently learning ... programming
+- 🌱 I’m currently learning ... anything and everything
 - 💞️ I’m looking to collaborate on ... nothing so far
 - 📫 How to reach me ... don't
 

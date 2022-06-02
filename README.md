@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BuyMyBeard
 - 👀 I’m interested in ... Game Development
-- 🌱 I’m currently learning ... anything and everything
+- 🌱 I’m currently learning ... C++ and Deep learning
 - 💞️ I’m looking to collaborate on ... Game Jams
 - 📫 How to reach me ... BuyMyBeard#8716 on Discord
 

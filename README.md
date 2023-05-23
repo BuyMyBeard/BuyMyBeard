@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BuyMyBeard
-- 👀 I’m interested in ... game development
+- 👀 I’m interested in ... web and game development
 - 🌱 I’m currently learning ... to google stuff
 - 💞️ I’m looking to collaborate on ... game jams
 - 📫 How to reach me ... BuyMyBeard#8716 on Discord

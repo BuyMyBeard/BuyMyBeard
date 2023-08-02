@@ -54,3 +54,9 @@ I have participated in multiple game jams, notably <a href="https://gmtk.itch.io
   <a href="https://https://www.voxedit.io/#/en/modeling"><img alt="VoxEdit" src="https://img.shields.io/badge/VoxEdit-14181d.svg"></a>
 </p>
 
+## Stats 📊
+
+<p>
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</p>

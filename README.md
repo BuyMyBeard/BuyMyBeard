@@ -1,4 +1,4 @@
-#Welcome to BuyMyBeard's profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to BuyMyBeard's profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 I am a Montréal-based technical computer science student and I take interest in becoming a professional game developer. I love the field for the amount there is to learn, and love to jump into game jams and personal projects as a mean to learn new stuff!
 

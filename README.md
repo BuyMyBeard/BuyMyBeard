@@ -23,11 +23,12 @@ I have participated in multiple game jams, notably <a href="https://gmtk.itch.io
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="https://pixijs.com/"><img alt="PixiJS" src="https://img.shields.io/badge/PixiJS-e91e63.svg"></a>
-    <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="https://howlerjs.com/"><img alt="howler.js" src="https://img.shields.io/badge/howler%2Ejs-eee9db.svg"></a>
-    <a href="https://jquery.com/"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769ad.svg?logo=jquery&logoColor=78cff5"></a>
+  <a href="https://pixijs.com/"><img alt="PixiJS" src="https://img.shields.io/badge/PixiJS-e91e63.svg"></a>
+  <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+  <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+  <a href="https://howlerjs.com/"><img alt="howler.js" src="https://img.shields.io/badge/howler%2Ejs-eee9db.svg"></a>
+  <a href="https://jquery.com/"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769ad.svg?logo=jquery&logoColor=78cff5"></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP%2ENET-1f1f1f.svg?logo=dotnet&logoColor=9780e5"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting

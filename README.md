@@ -47,9 +47,10 @@ I have participated in multiple game jams, notably <a href="https://gmtk.itch.io
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
   <a href="https://git-scm.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visualstudio&logoColor=white"></a>
-  <a href="https://www.aseprite.org/"><img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-7D929E.svg?logo=aseprite&logoColor=white"></a>
   <a href="https://learn.microsoft.com/en-us/windows/wsl/install"><img alt="WSL 2" src="https://img.shields.io/badge/WSL 2-blue.svg"></a>
   <a href="https://webpack.js.org/"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=white"></a>
   <a href="https://eslint.org/"><img alt="ESLint" src="https://img.shields.io/badge/ESLint-white.svg?logo=eslint&logoColor=4B32C3"></a>
+  <a href="https://www.aseprite.org/"><img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-7D929E.svg?logo=aseprite&logoColor=white"></a>
+  <a href="https://https://www.voxedit.io/#/en/modeling"><img alt="VoxEdit" src="https://img.shields.io/badge/VoxEdit-14181d.svg"></a>
 </p>
 

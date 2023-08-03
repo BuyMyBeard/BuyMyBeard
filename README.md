@@ -46,8 +46,8 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
 
 <p>
   <a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF.svg?logo=unity&logoColor=black"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="https://git-scm.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visualstudio&logoColor=white"></a>
   <a href="https://learn.microsoft.com/en-us/windows/wsl/install"><img alt="WSL 2" src="https://img.shields.io/badge/WSL 2-blue.svg"></a>
   <a href="https://webpack.js.org/"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=white"></a>

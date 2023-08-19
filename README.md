@@ -13,7 +13,7 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
 <p>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img alt="C#" src="https://img.shields.io/badge/C%23-white.svg?logo=csharp&logoColor=239120"></a>
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-  <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <!--<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>-->

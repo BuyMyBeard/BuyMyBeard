@@ -53,7 +53,7 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
   <a href="https://webpack.js.org/"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=white"></a>
   <a href="https://eslint.org/"><img alt="ESLint" src="https://img.shields.io/badge/ESLint-white.svg?logo=eslint&logoColor=4B32C3"></a>
   <a href="https://www.aseprite.org/"><img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-7D929E.svg?logo=aseprite&logoColor=white"></a>
-  <a href="https://https://www.voxedit.io/#/en/modeling"><img alt="VoxEdit" src="https://img.shields.io/badge/VoxEdit-14181d.svg"></a>
+  <a href="https://www.voxedit.io/#/en/"><img alt="VoxEdit" src="https://img.shields.io/badge/VoxEdit-14181d.svg"></a>
 </p>
 
 ## Stats 📊

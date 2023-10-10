@@ -62,15 +62,15 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
   <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 30 September 2023 - To: 07 October 2023
+From: 01 October 2023 - To: 08 October 2023
 
-Total Time: 32 hrs 59 mins
+Total Time: 22 hrs 51 mins
 
-TypeScript   21 hrs 26 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░   64.93 %
-C#           4 hrs 3 mins    ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   12.29 %
-GDScript3    2 hrs 58 mins   ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-JavaScript   1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-Prolog       49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+TypeScript   11 hrs 42 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   51.17 %
+C#           4 hrs 3 mins    ▓▓▓▓▒░░░░░░░░░░░░░░░░░░░░   17.74 %
+GDScript3    2 hrs 51 mins   ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+JavaScript   1 hr 22 mins    ▓▒░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Prolog       49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->

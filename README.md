@@ -25,7 +25,8 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
 ### 🧰 Frameworks and libraries
 
 <p>
-  <a href="https://pixijs.com/"><img alt="PixiJS" src="https://img.shields.io/badge/PixiJS-e91e63.svg"></a>
+  <a href="https://pixijs.com/"><img alt="PixiJS" src="https://img.shields.io/badge/PixiJS-e91e63"></a>
+  <a href="https://https://phaser.io/"><img alt="Phaser 3" src="https://img.shields.io/badge/Phaser_3-b9faf6"></a>
   <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="https://howlerjs.com/"><img alt="howler.js" src="https://img.shields.io/badge/howler%2Ejs-eee9db.svg"></a>
@@ -53,6 +54,7 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
   <a href="https://webpack.js.org/"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=white"></a>
   <a href="https://eslint.org/"><img alt="ESLint" src="https://img.shields.io/badge/ESLint-white.svg?logo=eslint&logoColor=4B32C3"></a>
   <a href="https://www.aseprite.org/"><img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-7D929E.svg?logo=aseprite&logoColor=white"></a>
+  <a href="https://blender.org/"><img alt="Blender" src="https://img.shields.io/badge/Blender-white.svg?logo=blender&logoColor=E87D0D"></a>
   <a href="https://www.voxedit.io/#/en/"><img alt="VoxEdit" src="https://img.shields.io/badge/VoxEdit-14181d.svg"></a>
 </p>
 

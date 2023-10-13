@@ -26,7 +26,7 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
 
 <p>
   <a href="https://pixijs.com/"><img alt="PixiJS" src="https://img.shields.io/badge/PixiJS-e91e63"></a>
-  <a href="https://https://phaser.io/"><img alt="Phaser 3" src="https://img.shields.io/badge/Phaser_3-b9faf6"></a>
+  <a href="https://phaser.io/"><img alt="Phaser 3" src="https://img.shields.io/badge/Phaser_3-b9faf6"></a>
   <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="https://howlerjs.com/"><img alt="howler.js" src="https://img.shields.io/badge/howler%2Ejs-eee9db.svg"></a>

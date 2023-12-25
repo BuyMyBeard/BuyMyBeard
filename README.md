@@ -64,15 +64,15 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
   <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 15 December 2023 - To: 22 December 2023
+From: 16 December 2023 - To: 23 December 2023
 
-Total Time: 31 hrs 43 mins
+Total Time: 29 hrs 25 mins
 
-JavaScript   16 hrs 4 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░   50.68 %
-C#           10 hrs 50 mins  ▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░   34.17 %
-ShaderLab    3 hrs 8 mins    ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-JSON         51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-CSS          35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+JavaScript   16 hrs 4 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░   54.66 %
+C#           8 hrs 26 mins   ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░   28.69 %
+ShaderLab    3 hrs 9 mins    ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+JSON         51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+CSS          35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->

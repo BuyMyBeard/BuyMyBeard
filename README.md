@@ -28,11 +28,11 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
 ### 🧰 Frameworks and libraries
 
 <p>
+  <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-027DFD.svg?logo=flutter&logoColor=white"></a>
   <a href="https://pixijs.com/"><img alt="PixiJS" src="https://img.shields.io/badge/PixiJS-e91e63"></a>
   <a href="https://phaser.io/"><img alt="Phaser 3" src="https://img.shields.io/badge/Phaser_3-b9faf6"></a>
   <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-  <a href="https://howlerjs.com/"><img alt="howler.js" src="https://img.shields.io/badge/howler%2Ejs-eee9db.svg"></a>
   <a href="https://jquery.com/"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769ad.svg?logo=jquery&logoColor=78cff5"></a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP%2ENET-1f1f1f.svg?logo=dotnet&logoColor=9780e5"></a>
 </p>
@@ -40,6 +40,7 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
 ### 🗄️ Databases and cloud hosting
 
 <p>
+  <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-1e1e1e.svg?logo=firebase&logoColor=ffa611"></a>
   <a href="https://www.ovhcloud.com/"><img alt="OVH Cloud" src="https://img.shields.io/badge/ovh-white.svg?logo=ovh&logoColor=123F6D"></a>
   <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
   <a href="https://azure.microsoft.com/"><img alt="Azure" src="https://img.shields.io/badge/Azure-white.svg?logo=microsoftazure&logoColor=0078D4"></a>

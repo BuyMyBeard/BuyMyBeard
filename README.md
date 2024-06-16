@@ -1,6 +1,6 @@
 # Welcome to BuyMyBeard's profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I am a Montréal-based technical computer science student and I take interest in becoming a professional game developer and technical artist. I love the field for the amount there is to learn, and love to jump into game jams and personal projects as a mean to learn new stuff!
+I am a Montréal-based mobile dev and I take interest in becoming a professional game developer and technical artist. I love the field for the amount there is to learn, and love to jump into game jams and personal projects as a mean to learn new stuff!
 
 I have participated in multiple game jams, notably <a href="https://gmtk.itch.io/">GMTK</a> and <a href="https://gamedevjs.com/">Gamedev.js</a> for both 2022 and 2023 editions. All the games I have made are Open-Source and featured here on Github! feel free to check them out! 
 
@@ -15,6 +15,7 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
   <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/Dart-13B9FD.svg?logo=dart&logoColor=0175C2">
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/Rust-black.svg?logo=rust&logoColor=white"></a>
   <!--<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>-->

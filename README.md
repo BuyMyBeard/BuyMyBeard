@@ -68,13 +68,13 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
   <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 24 June 2024 - To: 01 July 2024
+From: 25 June 2024 - To: 02 July 2024
 
-Total Time: 37 hrs 25 mins
+Total Time: 36 hrs 51 mins
 
-Dart         27 hrs 21 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░   69.69 %
-TypeScript   5 hrs 50 mins   ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   14.87 %
-Other        1 hr 50 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Dart         27 hrs 21 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░   70.69 %
+TypeScript   5 hrs 50 mins   ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+Other        1 hr 50 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
 <!--END_SECTION:waka-->

@@ -31,6 +31,7 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
 <p>
   <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-027DFD.svg?logo=flutter&logoColor=white"></a>
   <a href="https://jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/Jest-c21325.svg?logo=jest&logoColor=white"></a>
+   <a href="https://riverpod.dev/"><img alt="Riverpod" src="https://img.shields.io/badge/Riverpod-blue.svg"></a>
   <!--<a href="https://docs.superstructjs.org/"><img alt="Superstruct" src="https://img.shields.io/badge/Superstruct-e0afff.svg"></a>-->
   <a href="https://pixijs.com/"><img alt="PixiJS" src="https://img.shields.io/badge/PixiJS-e91e63"></a>
   <a href="https://phaser.io/"><img alt="Phaser 3" src="https://img.shields.io/badge/Phaser_3-b9faf6"></a>

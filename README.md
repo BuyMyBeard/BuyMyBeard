@@ -30,6 +30,8 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
 
 <p>
   <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-027DFD.svg?logo=flutter&logoColor=white"></a>
+  <a href="https://jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/Jest-c21325.svg?logo=jest&logoColor=white"></a>
+  <a href="https://docs.superstructjs.org/"><img alt="Superstruct" src="https://img.shields.io/badge/Superstruct-e0afff.svg"></a>
   <a href="https://pixijs.com/"><img alt="PixiJS" src="https://img.shields.io/badge/PixiJS-e91e63"></a>
   <a href="https://phaser.io/"><img alt="Phaser 3" src="https://img.shields.io/badge/Phaser_3-b9faf6"></a>
   <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -51,6 +53,7 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
 ### 💻 Software and tools
 
 <p>
+  <a href="https://pnpm.io/"><img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220.svg?logo=pnpm&logoColor=grey"></a>
   <a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF.svg?logo=unity&logoColor=black"></a>
   <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
   <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>

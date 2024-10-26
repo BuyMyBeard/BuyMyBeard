@@ -1,6 +1,6 @@
 # Welcome to BuyMyBeard's profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I am a Montréal-based Full Stack Developer and I take interest in becoming a professional game developer and technical artist. I love the field for the amount there is to learn, and love to jump into game jams and personal projects as a mean to learn new stuff!
+I am a Montréal-based full stack developer and I take interest in becoming a professional game developer and technical artist. I love the field for the amount there is to learn, and love to jump into game jams and personal projects as a mean to learn new stuff!
 
 I have participated in multiple game jams, notably <a href="https://gmtk.itch.io/">GMTK</a> and <a href="https://gamedevjs.com/">Gamedev.js</a> for both 2022 and 2023 editions. All the games I have made are Open-Source and featured here on Github! feel free to check them out! 
 

@@ -72,15 +72,15 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
   <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 15 January 2025 - To: 22 January 2025
+From: 16 January 2025 - To: 23 January 2025
 
-Total Time: 39 hrs 43 mins
+Total Time: 37 hrs 55 mins
 
-Dart              19 hrs 48 mins  ▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░   46.92 %
-Markdown          5 hrs 55 mins   ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   14.05 %
-TypeScript        5 hrs 18 mins   ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-YAML              3 hrs 53 mins   ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-JSON              3 hrs 3 mins    ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Dart         20 hrs 42 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░   50.88 %
+TypeScript   5 hrs 29 mins   ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
+YAML         4 hrs 25 mins   ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+JSON         3 hrs 12 mins   ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+Markdown     3 hrs 2 mins    ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
 ```
 
 <!--END_SECTION:waka-->

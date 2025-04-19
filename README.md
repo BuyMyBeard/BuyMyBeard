@@ -22,8 +22,8 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>-->
   <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
   <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-  <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl"><img alt="HLSL/CG" src="https://img.shields.io/badge/HLSL%2FCG-purple.svg?"></a>
   <a href="https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)"><img alt="GLSL" src="https://img.shields.io/badge/GLSL-DDDDDD.svg?logo=opengl&logoColor=1010A4"></a>
+  <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl"><img alt="HLSL/CG" src="https://img.shields.io/badge/HLSL%2FCG-purple.svg?"></a>
 </p>
 
 ### 🧰 Frameworks and libraries

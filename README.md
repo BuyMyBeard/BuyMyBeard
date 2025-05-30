@@ -72,7 +72,7 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
   <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 20 May 2025 - To: 27 May 2025
+From: 22 May 2025 - To: 29 May 2025
 
 Total Time: 1 hr 36 mins
 

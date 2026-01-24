@@ -72,15 +72,15 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
   <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 14 January 2026 - To: 21 January 2026
+From: 15 January 2026 - To: 22 January 2026
 
-Total Time: 66 hrs 2 mins
+Total Time: 66 hrs 16 mins
 
-C#                   59 hrs 35 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░   90.06 %
-C++                  4 hrs 8 mins    ▓▒░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Blender              1 hr 53 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Unity3D Asset        12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Text                 6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+C#                   51 hrs 49 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░   78.01 %
+C++                  12 hrs 1 min    ▓▓▓▓▒░░░░░░░░░░░░░░░░░░░░   18.09 %
+Blender              1 hr 53 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Unity3D Asset        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Other                9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->

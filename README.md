@@ -1,10 +1,10 @@
-# Welcome to BuyMyBeard's profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to BuyMyBeard's profile! 👋
 
-I am a Montréal-based full stack developer and I take interest in becoming a professional game developer and technical artist. I love the field for the amount there is to learn, and love to jump into game jams and personal projects as a mean to learn new stuff!
+I’m a Montréal-based software developer with a strong focus on system design, technical ownership, and building tools and products that hold up over time. I enjoy working on projects where decisions matter and where I’m responsible for the long-term health of what I build.
 
-I have participated in multiple game jams, notably <a href="https://gmtk.itch.io/">GMTK</a> and <a href="https://gamedevjs.com/">Gamedev.js</a> for both 2022 and 2023 editions. All the games I have made are Open-Source and featured here on Github! feel free to check them out! 
+Alongside professional work, I’m an active game developer with a deep interest in gameplay systems, tools, and technical problem-solving. I’ve participated in multiple game jams and personal projects over the years as a way to explore ideas and sharpen my understanding of interactive systems.
 
-I also won GamedevJS 2023 Open-Source category and was featured on <a href="https://github.blog/2023-06-21-gamedev-js-2023/">Github Blog</a>!
+I’ve taken part in several game jams, including [GMTK](https://gmtk.itch.io/) and [Gamedev.js](https://gamedevjs.com/), and won the Gamedev.js 2023 Open-Source category, with the project featured on the [GitHub Blog](https://github.blog/2023-06-21-gamedev-js-2023/). All of my game projects are open-source and available here on GitHub.
 
 ## 🛠️ The tools I use
 
@@ -17,6 +17,7 @@ I also won GamedevJS 2023 Open-Source category and was featured on <a href="http
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img alt="C#" src="https://img.shields.io/badge/C%23-white.svg?logo=csharp&logoColor=239120"></a>
   <a href="https://ziglang.org/"><img alt="Zig" src="https://img.shields.io/badge/Zig-111111.svg?logo=zig&logoColor=F7A41D"></a>
   <a href="https://rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/Rust-ce412b.svg?logo=rust&logoColor=white"></a>
+  <a href="https://https://isocpp.org/"><img alt="C++" src="https://img.shields.io/badge/C++-ffffff.svg?logo=cplusplus&logoColor=00599C"></a>
   <!--<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>-->

@@ -73,15 +73,15 @@ I’ve taken part in several game jams, including [GMTK](https://gmtk.itch.io/) 
   <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 20 January 2026 - To: 27 January 2026
+From: 21 January 2026 - To: 28 January 2026
 
-Total Time: 30 hrs 46 mins
+Total Time: 19 hrs 16 mins
 
-C#                                 15 hrs 33 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░   50.36 %
-C++                                12 hrs 10 mins  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░   39.39 %
-Markdown                           1 hr 58 mins    ▓▒░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Blender                            22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-JSON                               14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+C++                                8 hrs 2 mins    ▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░   41.53 %
+C#                                 7 hrs 51 mins   ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░   40.59 %
+Markdown                           2 hrs 39 mins   ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Unity3D Asset                      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+JSON                               10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->

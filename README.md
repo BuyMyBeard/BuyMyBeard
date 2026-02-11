@@ -31,6 +31,7 @@ I’ve taken part in several game jams, including [GMTK](https://gmtk.itch.io/) 
 
 <p>
   <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-027DFD.svg?logo=flutter&logoColor=white"></a>
+  <a href="https://adonisjs.com/"><img alt="AdonisJS" src="https://img.shields.io/badge/AdonisJS-white.svg?logo=adonisjs&logoColor=5A45FF"></a>
   <a href="https://jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/Jest-c21325.svg?logo=jest&logoColor=white"></a>
    <a href="https://riverpod.dev/"><img alt="Riverpod" src="https://img.shields.io/badge/Riverpod-blue.svg"></a>
   <!--<a href="https://docs.superstructjs.org/"><img alt="Superstruct" src="https://img.shields.io/badge/Superstruct-e0afff.svg"></a>-->
@@ -45,6 +46,7 @@ I’ve taken part in several game jams, including [GMTK](https://gmtk.itch.io/) 
 ### 🗄️ Databases and cloud hosting
 
 <p>
+  <a href="https://postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white"></a>
   <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-1e1e1e.svg?logo=firebase&logoColor=ffa611"></a>
   <a href="https://www.ovhcloud.com/"><img alt="OVH Cloud" src="https://img.shields.io/badge/ovh-white.svg?logo=ovh&logoColor=123F6D"></a>
   <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>

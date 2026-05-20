@@ -75,14 +75,14 @@ I’ve taken part in several game jams, including [GMTK](https://gmtk.itch.io/) 
   <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 10 May 2026 - To: 17 May 2026
+From: 11 May 2026 - To: 18 May 2026
 
-Total Time: 34 hrs 42 mins
+Total Time: 31 hrs 12 mins
 
-TypeScript        18 hrs 59 mins        ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   52.97 %
-Dart              10 hrs 53 mins        ▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░   30.38 %
-HTML              1 hr 53 mins          ▓▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Other             1 hr 9 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+TypeScript        18 hrs 38 mins        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░   57.66 %
+Dart              7 hrs 56 mins         ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░   24.53 %
+HTML              1 hr 53 mins          ▓▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Other             1 hr 8 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 ```
 
 <!--END_SECTION:waka-->

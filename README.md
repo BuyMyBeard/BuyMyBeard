@@ -75,11 +75,11 @@ I’ve taken part in several game jams, including [GMTK](https://gmtk.itch.io/) 
   <!--START_SECTION:waka-->
 
 ```last_7_days
-From: 14 July 2026 - To: 21 July 2026
+From: 16 July 2026 - To: 23 July 2026
 
-Total Time: 51 mins
+Total Time: 0 secs
 
-TypeScript   51 mins               ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
